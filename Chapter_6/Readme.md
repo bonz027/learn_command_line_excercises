@@ -14,8 +14,6 @@ KSOutOfProcessFetcher.501.qQkpPp2uZLdVc5pukHmfJMR4bkM=
 By typing cd ~ in the terminal, this will take me to my home directory, where I can then type ls and see
 what files are in my home directory. Here is what I get:
 
-# Creates a new ssh key, using the provided email as a label
-# Creates a new ssh key, using the provided email as a label.pub
 Applications
 Desktop
 Documents
