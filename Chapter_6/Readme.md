@@ -31,3 +31,9 @@ workspace
 
 #What's in the slash temp?
 Slash temp is a root folder that stores temporary files. 
+
+#Describe what ls -lR does.
+
+This command lists subdirectories recursively.
+
+
