@@ -2,8 +2,7 @@
 
 *pushd* 
 
-this command (from what I understand) saves the current working directory in memory so it can be returned to at 
-any time.
+this command sets the directory as the directory to return to when executing the *pod* command.
 
 *popd* 
 
