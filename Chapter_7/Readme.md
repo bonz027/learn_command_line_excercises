@@ -1,6 +1,6 @@
 #Can you remove the tmp directory?
 If you wanted to, but the files in this directory are only temporary stored and you can delete the files in the dr if 
-needed.
+needed. The command you would use to delete this is **rmdir tmp** 
 
 #Let's remove the tmp directory.
 
