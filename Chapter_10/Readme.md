@@ -17,3 +17,6 @@ A little confusing in the beginning but it all made sense towards the end.
 Copied the awesome.txt and foo.txt files into my desktop folder... cp awesome.txt Desktop/
 
 I found these files in finder, and when I opened them in text editor it was as expected, and empty txt file. 
+
+
+##I moved the files that were in something/ to temp/##
