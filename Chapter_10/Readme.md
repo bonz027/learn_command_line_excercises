@@ -20,3 +20,10 @@ I found these files in finder, and when I opened them in text editor it was as e
 
 
 ##I moved the files that were in something/ to temp/##
+
+Updated the **copy foo.txt** into the /tmp directory** 
+
+>Omars-MacBook:tmp OC$ cp foo.txt /tmp/
+
+>Omars-MacBook:tmp OC$ ls 
+foo.txt
