@@ -5,5 +5,4 @@ To find out what host I am on, open the iTerm and type in "hostname" which give 
 
 #Are you on your local machine?
 
-I know I am on my local machine because at the end of my opening line I can see the "$" which let's me know that i am
-on my local machine. 
+by running "hostname" i can see that it says **omars-macbook.local** which indicates i am on my local machine.
