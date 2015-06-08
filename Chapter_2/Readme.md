@@ -10,13 +10,13 @@ directory because when I type pwd it shows I am in the *davinci_coders_t2_2015 d
  
 > Are you in your home directory? 
  
-I am in my home directory. This is easily visible when entering a terminal the beginning of the line states my home 
-directory which is *Omars-MacBook*.
+By running **echo $HOME** in the command line i get a return of **/Users/OC** which lets me know that i am in my home 
+dir.
 
 > What directory did you run that command in?
 
-To find the directory, first I typed in *which ls* in the terminal which gives me the exact directory I am in. 
-In doing so, I found out that I was in the */bin/ls* directory.
+by running **pwd** i can see that i am in the following dir: /Users/OC/workspace/davinci_coders_t2_2015/homework/
+learn_command_line_excercises/Chapter_2
 
 > Explain the process for finding the path with your graphical file browser.
 
