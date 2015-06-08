@@ -8,8 +8,6 @@ already in the same folder i created, i type **touch foo.txt**
 
 ##Explain what happens when if you touch an existing file. 
 
-from the looks of it, It seems the command line recognizes that a similar file already exist and doesn't create it. 
-I entered **ls -l** into the command line and I see that a time stamp of 
-**-rw-r--r--  1 OC  staff  0 May 31 17:58 iamcool.txt** comes back. I am guessing that the existing file is just 
-overwritten by the new command??
+touch updates the time and date of when you last "touched" the file. It's a kind of like a reference point for your 
+self.. i.e opening the file, not editing anything, the saving it again; a time stamp basically
 
