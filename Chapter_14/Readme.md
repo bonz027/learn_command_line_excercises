@@ -17,4 +17,6 @@ This class is fun
 **Omars-MacBook:Chapter_15 OC$** cat foo.txt
 Oh so much fun
 
-**Omars-MacBook:Chapter_15 OC$**
+**Omars-MacBook:Chapter_15 OC$ I added blah.txt to the tmp directory then removed it with with command **rm blah.txt** 
+
+
