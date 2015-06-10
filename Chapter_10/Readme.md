@@ -14,7 +14,7 @@ A little confusing in the beginning but it all made sense towards the end.
 
 ##Copy a file to your home or desktop directory##
 
-Copied the awesome.txt and foo.txt files into my desktop folder... cp awesome.txt Desktop/
+Copied the awesome.txt and foo.txt files into my desktop folder... cp awesome.txt ~/Desktop
 
 I found these files in finder, and when I opened them in text editor it was as expected, and empty txt file. 
 
@@ -27,3 +27,6 @@ Updated the **copy foo.txt** into the /tmp directory**
 
 >Omars-MacBook:tmp OC$ ls 
 foo.txt
+
+
+**to move up a folder i would cd ..**
