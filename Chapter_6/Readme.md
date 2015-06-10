@@ -28,7 +28,7 @@ Public
 workspace
 
 #What's in the slash temp?
-Slash temp is a root folder that stores temporary files. 
+So I can "ls /tmp" to show what is in that directory or any other directory for that matter.
 
 #Describe what ls -lR does.
 
