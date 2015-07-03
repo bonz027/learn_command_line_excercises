@@ -10,8 +10,7 @@ directory because when I type pwd it shows I am in the *davinci_coders_t2_2015 d
  
 > Are you in your home directory? 
  
-By running **echo $HOME** in the command line i get a return of **/Users/OC** which lets me know that i am in my home 
-dir.
+i would run pwd to see if i were in my home directory.
 
 > What directory did you run that command in?
 
